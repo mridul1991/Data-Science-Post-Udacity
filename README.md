@@ -33,7 +33,7 @@ The key parameters driving potential are Ball control, reaction and age.
 
 The codes and datasets are attached with this blog post. The entire post can be found in the blog (https://medium.com/@mkjabc/does-expensive-players-make-better-teams-7de6d6d06958)
 
-
+ 
 
 # Necessary acknowledgements
 Udacity, AirBnB for the data. Apart from that the data used for this project is from Kaggle.
